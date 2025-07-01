@@ -1,0 +1,5 @@
+Q1 What is data
+Data refers to raw, unorganized facts and figures that can be processed and analyzed to extract meaningful information. It can exist in various forms, including numbers, text, images, and sound
+ Essentially, data is the foundation upon which information and knowledge are built
+Q2 What is filesystem
+A filesystem is a method used by operating systems to organize, store, and manage files and directories on a storage device. It acts like a digital file cabinet, structuring how data is stored and allowing users and applications to efficiently access and retrieve information.  
